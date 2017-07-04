@@ -1,4 +1,4 @@
-# cmake-vs-g-video
+# cmake-vs-g++-video
 
 To recreate the video create three directories. src, include and build.
 Place the .cpp files inside src and the .h file inside include.
